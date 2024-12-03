@@ -3,7 +3,7 @@ package de.miraculixx.aoc24.days
 import de.miraculixx.aoc24.readInputFile
 
 fun main() {
-    val day02 = Day02(readInputFile(2, "b"))
+    val day02 = Day02(readInputFile(3, "b"))
     println("Day 01 - Part 1")
     day02.part1()
 
